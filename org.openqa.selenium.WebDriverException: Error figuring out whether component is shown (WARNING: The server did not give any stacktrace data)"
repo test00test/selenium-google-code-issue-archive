@@ -1,0 +1,7 @@
+Here I want to discuss something related to my project, I automate one website and have successfully automated around more than 100 test cases.
+
+In any case, when I go to execute all automated script, at each endeavor generally 5-6 test cases gets fizzled and purpose behind disappointment test scripts are "org.openqa.selenium.WebDriverException: Error figuring out whether component is shown (WARNING: The server did not give any stacktrace data)". 
+
+On executing the fizzled script exclusively it gets passed. 
+
+It will be extremely helpful to me on the off chance that you can recommend me by what method would I be able to alter this issue. 
